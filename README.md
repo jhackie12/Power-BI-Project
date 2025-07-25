@@ -23,7 +23,7 @@ The primary goal of this analysis is to generate actionable insights into Maven 
 
 
 ## Tools and Methodologies 
-Tool Used: Microsoft Power BI [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+**Tool Used**: **Microsoft Power BI**[Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 ### Techniques
 1. Data Cleaning & Transformation using Power Query
@@ -45,3 +45,7 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 - Corrected data types to ensure consistency. 
 - Trimmed redundant store names in the Stores Table for clarity. 
 - Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting year, quarter, month, and day attributes.
+
+
+## Data Modeling 
+Effective data modeling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a **star schema model**:

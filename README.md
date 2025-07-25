@@ -5,6 +5,17 @@ This analysis evaluates sales and inventory data from Maven Toy Store, a toy ret
 
 ![image alt](https://github.com/jhackie12/Power-BI-Project/blob/7965286fbdaf3b38e871e9adeeba4df56c1d2ddd/Dashboard%20image.PNG)
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Objective](#objectives)
+- [Key Business Questions](#key-business-questions)
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing ](#data-processing)
+- [Data Modeling](#data-modeling)
+- [Key Insights](#key-insights)
+- [Summary & Recommendations](#summary-&-recommendations)
+- [References](#references)
 
 ## Objectives
 The primary goal of this analysis is to generate actionable insights into Maven Toy Store's overall sales performance and profitability by evaluating: 
@@ -138,3 +149,5 @@ Current Inventory Value & Turnover:
 1. Expand investment in Downtown stores to capitalize on high profitability. 
 2. Investigate low sales in January and February to identify and mitigate potential market challenges. 
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
+
+### References

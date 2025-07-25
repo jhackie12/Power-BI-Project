@@ -23,7 +23,7 @@ The primary goal of this analysis is to generate actionable insights into Maven 
 
 
 ## Tools and Methodologies 
-Tool Used: Microsoft Power BI [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+*Tool Used: **Microsoft Power BI* [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 ### Techniques
 1. Data Cleaning & Transformation using Power Query
@@ -31,3 +31,6 @@ Tool Used: Microsoft Power BI [Website](https://www.microsoft.com/en-us/power-pl
 3. DAX Implementation for advanced calculations and metrics
 4. Data Visualization for interactive and insightful dashboards
 5. Comprehensive Project Documentation for clear reporting of insights
+
+
+

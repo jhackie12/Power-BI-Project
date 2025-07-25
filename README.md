@@ -20,3 +20,14 @@ The primary goal of this analysis is to generate actionable insights into Maven 
 3. What is the company's current market reach in terms of store distribution and geographic presence?
 4. What is the total inventory value, and how long can it sustain current sales levels?
 5. Which stores perform best and worst in terms of revenue and profitability?
+
+
+## Tools and Methodologies 
+Tool Used: Microsoft Power BI [Website](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+
+### Techniques
+1. Data Cleaning & Transformation using Power Query
+2. Data Modeling to establish structured relationships between tables
+3. DAX Implementation for advanced calculations and metrics
+4. Data Visualization for interactive and insightful dashboards
+5. Comprehensive Project Documentation for clear reporting of insights

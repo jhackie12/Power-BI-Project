@@ -33,4 +33,15 @@ Tool Used: Microsoft Power BI [Website](https://www.microsoft.com/en-us/power-pl
 5. Comprehensive Project Documentation for clear reporting of insights
 
 
+## Data Processing 
 
+### Data Importation and Cleaning 
+Importation Process: Data was ingested using Power BI’s Excel connector. 
+
+### Cleaning Steps: 
+- Promoted headers for consistent column naming. 
+- Converted ID columns from whole numbers to text (as they serve as unique identifiers rather than numerical values). 
+- Added calculated fields for total product cost, total product price, and profit in the sales dataset. 
+- Corrected data types to ensure consistency. 
+- Trimmed redundant store names in the Stores Table for clarity. 
+- Created a Dates Table using CALENDARAUTO() to facilitate temporal analysis, extracting year, quarter, month, and day attributes.

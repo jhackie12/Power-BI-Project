@@ -90,12 +90,14 @@ Highest Profit-Generating Products:
 **1. Which locations generate the highest profits?**
    - Downtown stores lead with over $2M in profits.
    - Airport stores yield the lowest profit at $378K.
+
 **2. Most Profitable Stores:**
   - Maven Toys Ciudad de Mexico 2 - $170K
   - Maven Toys Guadalajara 3 - $121K
   - Maven Toys Ciudad de Mexico 1 - $111K
   - Maven Toys Monterrey 2 - $107K
   - Maven Toys Toluca - $105K
+
 **3. Least Profitable Stores:**
   - Maven Toys Cuernavaca 1 - $57K
   - Maven Toys La Paz 1 - $57K
@@ -105,12 +107,15 @@ Highest Profit-Generating Products:
 **1. Peak Sales & Profits**: March–July
    - Highest Sales: April (112K units)
    - Highest Profit: March ($406K)
+
 **2. Lowest Sales & Profits**: October
    - Sales: 48K units
    - Profit: $179K 
+
 **3. Quarterly Trends**:
    - Q2 (April–June): Highest sales
    - Q4 (October–December): Lowest sales
+
 **4. Yearly Trends**:
    - 2017: Sales peaked towards year-end.
    - 2018: Stronger sales from February–July, with March leading.
